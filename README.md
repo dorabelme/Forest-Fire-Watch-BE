@@ -1,6 +1,6 @@
 # Wildfire Watch - API Documentation
 
-You can find the deployed project at [wildfirewatchapp.com](https://wildfirewatchapp.com/).
+You can find the deployed project at [thewildfirewatchapp.com](https://thewildfirewatchapp.com/).
 
 The backend is deployed at [Heroku](https://wildfire-watch.herokuapp.com/) <br>
 
